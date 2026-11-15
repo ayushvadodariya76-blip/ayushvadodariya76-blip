@@ -30,9 +30,12 @@ I build **apps, web apps and software automation** using AI — from idea to lau
 
 `Claude` `OpenAI` `ChatGPT` `Gemini` `Codex` `Antigravity` `MCP Servers` `CLI Agents`
 
-### 🔭 Currently Building
+### 🔭 Projects
 
 - **VakilPro** — Legal consultation super-app (client–lawyer marketplace)
 - **BookMyPitch** — Flutter app with Firebase + Supabase
+- **AI Preparation App** — Flutter app that helps students & job seekers prepare for interviews and exams
+- **CartBook** — Software for carting & quarry businesses: entries, expense tracking, daily entries & reports
+- **Accounting Software** — In progress: complete accounting software with all standard requirements
 
 ---
