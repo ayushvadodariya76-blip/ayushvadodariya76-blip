@@ -27,6 +27,7 @@ I build **apps, web apps and software automation** using AI — from idea to lau
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 AI Tools I Work With
 
@@ -40,4 +41,5 @@ I build **apps, web apps and software automation** using AI — from idea to lau
 - **CartBook** — Software for carting & quarry businesses: entries, expense tracking, daily entries & reports
 - **Accounting Software** — In progress: complete accounting software with all standard requirements
 
+---
 ---
